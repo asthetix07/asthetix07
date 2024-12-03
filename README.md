@@ -7,8 +7,8 @@
 🔧 **Tools & Technologies:**
 
 - 📱 Java, Kotlin  
-- 🚀 Android Studio (Windows)  
-- 📦 Jetpack Compose  
+- 🚀 Android Studio | IntelliJ (Windows)  
+- 📦 Jetpack Compose | Firebase | Ktor | XML
 
 ---
 
