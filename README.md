@@ -1,4 +1,4 @@
-# 🌟 Hello, I'm Akash!
+# 🌟 Hello, I'm Akash
 
 🧑‍💻 **Android Developer** | Mobile App Enthusiast 📱
 
