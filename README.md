@@ -8,7 +8,7 @@
 
 - 📱 Java, Kotlin  
 - 🚀 Android Studio | IntelliJ (Windows)  
-- 📦 Jetpack Compose | Firebase | Ktor | XML
+- 📦 Jetpack Compose | Firebase  
 
 ---
 
