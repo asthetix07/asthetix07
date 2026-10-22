@@ -51,7 +51,7 @@ Fresher CS graduate (B.E., 2026) who builds **agentic AI systems** and **product
 
 ### 💼 Featured Projects
 
-#### 🤖 [Sync AI](https://github.com/your-username/sync-ai)
+#### 🤖 [Sync AI](https://github.com/asthetix07/sync-ai)
 Conversational AI backend with RAG, PDF ingestion, persistent memory, and web search via a multi-tool LangChain agent.
 - Modular architecture using **pgvector** for vector storage, built with a **Factory Pattern**
 - Async FastAPI endpoints with session management
@@ -59,14 +59,14 @@ Conversational AI backend with RAG, PDF ingestion, persistent memory, and web se
 
 `FastAPI` `LangChain` `Groq` `Gemini` `pgvector` `PostgreSQL` `Next.js` `OAuth 2.0`
 
-#### 🎬 [Movie Recommendation Engine](https://github.com/your-username/movie-recommendation)
+#### 🎬 [Movie Recommendation Engine](https://github.com/asthetix07/movie-recommendation)
 Content-based recommendation engine using TF-IDF and cosine similarity.
 - Async FastAPI endpoints integrated with the TMDB API
 - Serialized ML pipeline (pickle) with hybrid recommendation support
 
 `Python` `FastAPI` `Scikit-learn` `TMDB API` `Docker`
 
-#### 📰 [QuickRead](https://github.com/your-username/quickread)
+#### 📰 [QuickRead](https://github.com/asthetix07/quickread)
 News app with live headlines, debounced search, and swipe-to-delete — backed by Room Database.
 - Responsive Material3 UI with gradient app bar and infinite-scroll pagination
 
